@@ -14,7 +14,7 @@ class payroll
 	public:
 	void enter()
 	{
-		cout<<"\n Enter the details of the teacher who are 			working in school.";
+		cout<<"\n Enter the details of the teacher who are working in school.";
 		cout<<"\n Enter the serial number of teaher";
 		cin>>sno;
 		cout<<"\n Enter the name of the teacher.";
